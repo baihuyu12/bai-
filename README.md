@@ -1,4 +1,4 @@
-# bai-
+# Lammps-potential
 simulation learning
 Hi,GitHub!
 This is my first work to start a new way for learning simulation of function!
